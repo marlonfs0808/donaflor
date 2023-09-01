@@ -1,0 +1,48 @@
+body {
+    font-family: serif;
+    
+  }
+  
+  .fotinha{
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+  }
+  #sayfa {
+    background-color: #d6d6d6cb;
+    align-items: center;
+  
+  }
+  
+  #alex-baslik {
+      padding: 30px 0px 15px 0px;
+  }
+  
+  #slogan {
+    font-style: italic;
+  }
+  
+  #foto {
+   padding: 15px 60px 0px 60px;
+   align-items: center;
+   margin: 0 auto;
+  }
+  
+  #paragraf {
+    padding: 10px 25px 25px 10px;
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  #liste {
+    padding: 0px 0px 40px 20px;
+    font-size: 20px;
+  }
+  
+  #end {
+    padding: 0px 0px 30px 20px;
+    font-style: italic;
+    
+  }
+  
